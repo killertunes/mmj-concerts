@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"><img class="alignnone wp-image-52" src="https://wwjjd.net/wp-content/uploads/2021/10/mmj-owl-300x116.png" alt="" width="437" height="169" /></h2>
+<h2 style="text-align: center;"><img class="alignnone wp-image-52" src="https://wwjjd.net/images/mmj-owl.png" alt="" width="437" height="169" /></h2>
 <h2 style="text-align: center;">The largest curated live performance archive on the net</h2>
 <p style="text-align: center;">Please visit these links for <a href="http://www.jimjames.com" target="_blank" rel="noopener"><em>Jim James</em></a> &amp;
 <a href="http://www.mymorningjacket.com" target="_blank" rel="noopener"><em>My Morning Jacket's</em></a> official pages.
@@ -81,3 +81,5 @@ recommended &amp; the best way to show your support.</p>
 <p style="text-align: center;">Headliners 09/16/1999</p>
 
 <div class="col" style="text-align: center;"></div>
+
+<center><footer>&copy; Copyright 2023 WWJJD.net</footer></center>

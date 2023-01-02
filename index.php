@@ -2,7 +2,7 @@
     <!-- 'title' tag with content of 'Home' -->
     <title>What Would Jim James Do?</title>
     <link rel="icon" type="image/x-icon" href="/images/jj-thumb.jpg">
-  </head>
+</head>
 
 <body style="background-color:aquamarine;">
 <h2 style="text-align: center;"><img class="alignnone wp-image-52" src="https://wwjjd.net/images/mmj-owl.png" alt="" width="437" height="169" /></h2>

@@ -1,2 +1,2 @@
 # mmj-concerts
-Repository for WWJJD.net Static Site
+Backup Repository for WWJJD.net 

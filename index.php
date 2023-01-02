@@ -1,3 +1,9 @@
+<head>
+    <!-- 'title' tag with content of 'Home' -->
+    <title>What Would Jim James Do?</title>
+  </head>
+
+<body style="background-color:aquamarine;">
 <h2 style="text-align: center;"><img class="alignnone wp-image-52" src="https://wwjjd.net/images/mmj-owl.png" alt="" width="437" height="169" /></h2>
 <h2 style="text-align: center;">The largest curated live performance archive on the net</h2>
 <p style="text-align: center;">Please visit these links for <a href="http://www.jimjames.com" target="_blank" rel="noopener"><em>Jim James</em></a> &amp;

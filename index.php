@@ -1,6 +1,7 @@
 <head>
     <!-- 'title' tag with content of 'Home' -->
     <title>What Would Jim James Do?</title>
+    <link rel="icon" type="image/x-icon" href="/images/jj-thumb.jpg">
   </head>
 
 <body style="background-color:aquamarine;">
